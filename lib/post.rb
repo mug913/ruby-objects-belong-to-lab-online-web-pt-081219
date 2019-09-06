@@ -6,4 +6,5 @@ class Post
     self.title = title 
   end 
   
+  
 end
