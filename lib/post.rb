@@ -5,8 +5,7 @@ class Post
   def initalize(title)
     @title = title 
   end 
-  
-  
+
 end
 
 
