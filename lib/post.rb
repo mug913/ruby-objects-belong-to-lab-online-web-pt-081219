@@ -8,7 +8,7 @@ class Post
 end
 
 binding.pry
-author = Author.new("Drake")
-posting = Post.new("Hotline Bling")
+author = Author.new
+posting = Post.new
  
 posting.Author = author
