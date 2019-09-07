@@ -7,3 +7,8 @@ class Author
   end 
   
 end
+
+author = Author.new("Drake")
+posting = Post.new("Hotline Bling")
+ 
+posting.author = author
