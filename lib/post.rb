@@ -12,5 +12,3 @@ posting = Post.new
  
 posting.author = author
 
-
-binding.pry
