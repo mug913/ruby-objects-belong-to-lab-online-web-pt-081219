@@ -10,3 +10,4 @@ class Post
 end
 
 author = Author.new 
+posting = Post.new 
