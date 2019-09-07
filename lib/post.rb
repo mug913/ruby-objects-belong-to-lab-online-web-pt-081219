@@ -7,8 +7,10 @@ class Post
   end 
 end
 
-binding.pry
 author = Author.new
 posting = Post.new
  
 posting.Author = author
+
+
+binding.pry
